@@ -7,9 +7,9 @@ This procedure describes how to withdraw cash from a Wingdingian National Bank A
 
 **How:**
 
- 1. Slide your card through the card reader with the black magnetic stripe facing to the right.
+1. Slide your card through the card reader with the black magnetic stripe facing to the right.
 The ATM prompts you for your PIN.
- 1. Use the keypad to enter your PIN, and then press the green **ENTER** button.
+1. Use the keypad to enter your PIN, and then press the green **ENTER** button.
 **Tip:** Stand so that your body blocks the view of the keypad from other persons.
 Your card is ejected from the card reader slot.
 1. Remove your card and return it to a secure location.
